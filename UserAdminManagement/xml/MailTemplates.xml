@@ -1,0 +1,18 @@
+﻿<bpsmailtemplates>
+  <mailtemplate name ="mailbox_alert">
+    <recipients>KishoreReddy.Nalgonda@uk.bp.com</recipients>
+    <subject>BPS Application Mailbox Alert</subject>
+    <bodytext> The below mentioned Application Mailbox having issues in processing, Please look into the same</bodytext>
+  </mailtemplate>
+  <mailtemplate name ="crash_alert">
+    <recipients>KishoreReddy.Nalgonda@uk.bp.com</recipients>
+    <subject>Crash Alerts in BPS Application</subject>
+    <bodytext>Repeated Crashes occuring for below application crashes</bodytext>
+  </mailtemplate>
+  <mailtemplate name ="service_alert">
+    <recipients>KishoreReddy.Nalgonda@uk.bp.com</recipients>
+    <subject>BPS Service Alert</subject>
+    <body>The below service has stopped running, Please check </body>
+  </mailtemplate>
+
+</bpsmailtemplates>

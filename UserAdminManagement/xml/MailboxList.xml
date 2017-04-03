@@ -1,0 +1,11 @@
+﻿<!--Here are the list of Mail
+#mailboxname - maildid of monitoring mailbox
+#alerttrigger - mail/sms alert for the trigger in mins; example if the value is 15,
+if the mails are not processed from past 15 mins mail/sms will be triggered
+-->
+
+<BPSMailboxes>
+  <mailbox id ="1" mailboxname="BPOSS-SupportDesk@uk.bp.com" alerttrigger ="15"></mailbox>
+  <mailbox id ="2" mailboxname="gbpsitsimassupport@bp.com" alerttrigger ="15"></mailbox>
+  <mailbox id ="2" mailboxname="CATSupportDesk@bp.com" alerttrigger ="15"></mailbox>
+</BPSMailboxes>

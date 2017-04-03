@@ -1,0 +1,6 @@
+﻿<services>
+  <service id ="1" servicedisplayname="Application Management" servicename="AppMgmt" processname="AppMgmt" serverIP ="10.156.61.90" localIP ="yes"></service>
+  <service id ="1" servicedisplayname="Application Information" servicename="Appinfo" processname="Appinfo" serverIP ="10.156.61.90" localIP ="yes"></service>
+  <service id ="1" servicedisplayname="Application Experience" servicename="AeLookupSvc" processname="AeLookupSvc" serverIP ="10.156.61.90" localIP ="yes"></service>
+  
+</services>
